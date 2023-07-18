@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - AcadaNotes</title>
+        <link>https://acadanotes.github.io/tags/</link>
+        <description>Tags - Tag - AcadaNotes</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://acadanotes.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
